@@ -8,9 +8,7 @@ import {
 import cartImg from './assets/cart.png';
 import { allPokemon } from './services/api';
 
-import Header from './components/Header';
 import Card from './components/Card';
-import Cart from './components/Cart';
 import Modal from './components/Modal';
 import ShoppingCart from './components/ShoppingCart';
 
