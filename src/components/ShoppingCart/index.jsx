@@ -1,6 +1,5 @@
 import React from 'react';
 import * as S from './styles';
-import { divCard } from '../Card/styles';
 
 export default function ShoppingCart({
   removeStatePokemon, pokemonCart, totalPrice, endShop,
