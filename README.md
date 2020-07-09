@@ -1,3 +1,6 @@
+# PokeStore
+Projeto criado para o Programa Hiring Coders, da Gama Academy, usando a [pokeapi](https://pokeapi.co/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
