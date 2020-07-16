@@ -1,4 +1,4 @@
-# PokeStore 😊
+# PokeStore - Vinicius Passos 😊
 Project created for the Hiring Coders Program, of the Gama Academy, using the API [pokeapi](https://pokeapi.co/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
